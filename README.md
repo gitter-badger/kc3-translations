@@ -1,5 +1,7 @@
 ## KC3改 Translations [![Build Status](https://travis-ci.org/KC3Kai/kc3-translations.svg?branch=master)](https://travis-ci.org/KC3Kai/kc3-translations)
 
+[![Join the chat at https://gitter.im/KC-TH/kc3-translations](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/KC-TH/kc3-translations?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![KC3改 Logo](http://puu.sh/h4Gbb.png)
 
 If interested, you can translate KC3改 to your own language.
